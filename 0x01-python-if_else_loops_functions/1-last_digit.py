@@ -15,4 +15,4 @@ else:
     comparison = "is less than 6 and not 0"
 
 # Print the result
-print(f"The string Last digit of {number} is {last_digit} and {comparison}")
+print(f"The string Last digit of {number:d} is {last_digit:d} and {comparison}")
